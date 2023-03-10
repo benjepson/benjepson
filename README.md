@@ -7,7 +7,7 @@
 - I'm going to learn to create an R package and send it out into the world
 - Also improving my presentation skills - github pages, interactive vis, youtube
 - 💞️ I’m looking to collaborate on R packages, and things pertaining to my interests
-- 📫 How to reach me: benjepson@jepsonstats.org, twitter @JepsonStats
+
 
 <!---
 benjepson/benjepson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
